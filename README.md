@@ -1,12 +1,6 @@
-  <p align="center">
-    <h3 align="center">Type-safe, Well tested SDK for <a href="https://monkeytype.com/">Monkeytype.com</a></h3>
+### Type-safe, Well tested SDK for [Monkeytype.com](https://monkeytype.com/)
 
-    <p align="center">
-      <a href="https://github.com/GreXLin85/MonkeyTypeSDK/issues">Report Bug</a>
-      |
-      <a href="https://github.com/GreXLin85/MonkeyTypeSDK/issues">Request Feature</a>
-    </p>
-  </p>
+[Report Bug](https://github.com/GreXLin85/MonkeyTypeSDK/issues) | [Request Feature](https://github.com/GreXLin85/MonkeyTypeSDK/issues)
 
   ![Issues](https://img.shields.io/github/issues/GreXLin85/MonkeyTypeSDK) ![License](https://img.shields.io/github/license/GreXLin85/MonkeyTypeSDK) 
 
@@ -19,7 +13,6 @@
   * [Contributing](#contributing)
   * [License](#license)
   * [Authors](#authors)
-  * [Acknowledgements](#acknowledgements)
 
   ## Getting Started
 
@@ -91,7 +84,7 @@
 
   ## License
 
-  Distributed under the MIT License. See [LICENSE](https://github.com/GreXLin85/MonkeyTypeSDK/blob/main/LICENSE.md) for more information.
+  Distributed under the MIT License. See [LICENSE](https://github.com/GreXLin85/MonkeyTypeSDK/blob/main/LICENSE) for more information.
 
   ## Authors
 
