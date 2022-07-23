@@ -45,7 +45,7 @@ export default class MonkeyTypeSDK {
         });
 
         if (response.status !== 200) {
-            throw (await response.json());
+            throw (await response.text());
         }
         return (await response.json()) as Promise<Response>;
     }
