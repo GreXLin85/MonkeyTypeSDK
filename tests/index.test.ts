@@ -5,7 +5,7 @@ import MonkeyTypeSDK from '../src/index';
 const monkeyTypeSDK = new MonkeyTypeSDK(process.env.APE_KEY);
 
 describe("Errors", () => {
-  test('Is SDK gives error when APE Key is not present', async () => {
+  test('Is SDK gives error when APE Key is not present', () => {
     // eslint-disable-next-line @typescript-eslint/ban-ts-comment
     // @ts-ignore
     expect(() => new MonkeyTypeSDK()).toThrowError('APE(API) key is required');
