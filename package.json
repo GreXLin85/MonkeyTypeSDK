@@ -1,6 +1,6 @@
 {
   "name": "monkeytypesdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SDK for Monkeytype.com",
   "main": "dist/index.js",
   "author": "GreXLin85",
@@ -27,5 +27,6 @@
   },
   "dependencies": {
     "node-fetch": "2"
-  }
+  },
+  "repository": "https://github.com/GreXLin85/monkeytypesdk.git"
 }
