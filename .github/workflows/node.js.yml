@@ -28,5 +28,4 @@ jobs:
     - run: npm install
     - run: npm test
       env:
-            CI: true
             APE_KEY: ${{ secrets.APE_KEY }}
